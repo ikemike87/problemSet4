@@ -48,7 +48,6 @@ class MainActivity : AppCompatActivity() {
 
                 recycler.adapter?.notifyItemChanged(boardPosition)
                 turnCount++
-
             }
         }
 
